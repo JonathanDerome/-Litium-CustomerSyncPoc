@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+	<Customer>
+		<Addresses>
+			<Address>
+				<AddressTypeSystemId>F0825AF2-17C2-47FE-876B-D4F2F17FCEAC</AddressTypeSystemId>
+				<SystemId>3fa85f64-5717-4562-b3fc-2c963f66afa6</SystemId>
+				<Address1>1234 Elm Street</Address1>
+				<Address2>Apt 567</Address2>
+				<CareOf>John Doe</CareOf>
+				<City>Springfield</City>
+				<Country>USA</Country>
+				<HouseExtension>B</HouseExtension>
+				<HouseNumber>1234</HouseNumber>
+				<State>IL</State>
+				<ZipCode>62704</ZipCode>
+				<PhoneNumber>+1-555-1234</PhoneNumber>
+			</Address>
+		</Addresses>
+		<Fields>
+			<Name>
+				<EnUS>John Doe</EnUS>
+				<SvSE>John Doe</SvSE>
+			</Name>
+			<NameInvariantCulture>john.doe</NameInvariantCulture>
+			<Description>
+				<EnUS>A sample person record</EnUS>
+				<SvSE>Ett exempel på en personpost</SvSE>
+			</Description>
+			<Email>john.doe@example.com</Email>
+			<FirstName>John</FirstName>
+			<LastName>Doe</LastName>
+			<PhoneNumber>+1-555-1234</PhoneNumber>
+			<Title>Mr.</Title>
+			<Option>
+				<Subscription>premium</Subscription>
+			</Option>
+			<MatchCondition>active</MatchCondition>
+			<LegalRegistrationNumber>9876543210</LegalRegistrationNumber>
+			<SocialSecurityNumber>123-45-6789</SocialSecurityNumber>
+		</Fields>
+		<FieldTemplateSystemId>A88D364A-8502-41DF-89C0-9269B80601AE</FieldTemplateSystemId>
+		<Id>CustomerOrg</Id>
+		<SystemId>3fb85f64-5717-4562-b3fc-2c963f66afa6</SystemId>
+		<Organization>
+			<LoginCredential>
+				<NewPassword>TestPassword123!</NewPassword>
+				<LockoutEnabled>false</LockoutEnabled>
+				<LockoutEndDate>2025-12-31T23:59:59.999Z</LockoutEndDate>
+				<PasswordExpirationDate>2025-12-31T23:59:59.999Z</PasswordExpirationDate>
+				<Username>user12345</Username>
+			</LoginCredential>
+			<Addresses>
+				<Address>
+					<AddressTypeSystemId>F0825AF2-17C2-47FE-876B-D4F2F17FCEAC</AddressTypeSystemId>
+					<SystemId>3fa85f64-5717-4562-b3fc-2c963f66afa6</SystemId>
+					<Address1>1234 Elm Street</Address1>
+					<Address2>Apt 567</Address2>
+					<CareOf>John Doe</CareOf>
+					<City>Springfield</City>
+					<Country>USA</Country>
+					<HouseExtension>B</HouseExtension>
+					<HouseNumber>1234</HouseNumber>
+					<State>IL</State>
+					<ZipCode>62704</ZipCode>
+					<PhoneNumber>+1-555-1234</PhoneNumber>
+				</Address>
+			</Addresses>
+			<Fields>
+				<Name>
+					<EnUS>Test Organization</EnUS>
+					<SvSE>Testorganisation</SvSE>
+				</Name>
+				<NameInvariantCulture>john.doe2</NameInvariantCulture>
+				<Description>
+					<EnUS>This is a sample description for the organization.</EnUS>
+					<SvSE>Detta är en exempelbeskrivning för organisationen.</SvSE>
+				</Description>
+				<Email>contact@organization.com</Email>
+				<FirstName>John</FirstName>
+				<LastName>Doe</LastName>
+				<PhoneNumber>+46701234567</PhoneNumber>
+				<Title>CEO</Title>
+				<MatchCondition>Active</MatchCondition>
+				<LegalRegistrationNumber>556677-1234</LegalRegistrationNumber>
+				<SocialSecurityNumber>20010101-1234</SocialSecurityNumber>
+			</Fields>
+			<FieldTemplateSystemId>A88D364A-8502-41DF-89C0-9269B80601AE</FieldTemplateSystemId>
+			<GroupLinks>
+				<GroupLink>
+					<GroupSystemId>6C9945AC-CE8A-4997-EBEC-08DD3F873079</GroupSystemId>
+				</GroupLink>
+			</GroupLinks>
+			<Id>cbc123</Id>
+			<SystemId>9f4481c1-974e-4ccb-a93b-f0a45c8c2008</SystemId>
+		</Organization>
+	</Customer>
+
+	<Customer>
+		<Addresses>
+			<Address>
+				<AddressTypeSystemId>F0825AF2-17C2-47FE-876B-D4F2F17FCEAC</AddressTypeSystemId>
+				<SystemId>5fb85f64-5717-4562-b3fc-2c963f66afa7</SystemId>
+				<Address1>5678 Oak Street</Address1>
+				<Address2>Apt 101</Address2>
+				<CareOf>Jane Smith</CareOf>
+				<City>Chicago</City>
+				<Country>USA</Country>
+				<HouseExtension>A</HouseExtension>
+				<HouseNumber>5678</HouseNumber>
+				<State>IL</State>
+				<ZipCode>62705</ZipCode>
+				<PhoneNumber>+1-555-5678</PhoneNumber>
+			</Address>
+		</Addresses>
+		<Fields>
+			<Name>
+				<EnUS>Jane Smith</EnUS>
+				<SvSE>Jane Smith</SvSE>
+			</Name>
+			<NameInvariantCulture>Jane Smith</NameInvariantCulture>
+			<Description>
+				<EnUS>Another sample person record</EnUS>
+				<SvSE>Ett annat exempel på en personpost</SvSE>
+			</Description>
+			<Email>jane.smith@example.com</Email>
+			<FirstName>Jane</FirstName>
+			<LastName>Smith</LastName>
+			<PhoneNumber>+1-555-5678</PhoneNumber>
+			<Title>Ms.</Title>
+			<Option>
+				<Subscription>basic</Subscription>
+			</Option>
+			<MatchCondition>inactive</MatchCondition>
+			<LegalRegistrationNumber>1234567890</LegalRegistrationNumber>
+			<SocialSecurityNumber>987-65-4321</SocialSecurityNumber>
+		</Fields>
+		<FieldTemplateSystemId>A88D364A-8502-41DF-89C0-9269B80601AE</FieldTemplateSystemId>
+		<Id>CustomerJane</Id>
+		<SystemId>5fb85f64-5717-4562-b3fc-2c963f66afa7</SystemId>
+		<Organization>
+			<LoginCredential>
+				<NewPassword>TestPassword123!</NewPassword>
+				<LockoutEnabled>false</LockoutEnabled>
+				<LockoutEndDate>2025-12-31T23:59:59.999Z</LockoutEndDate>
+				<PasswordExpirationDate>2025-12-31T23:59:59.999Z</PasswordExpirationDate>
+				<Username>user12345</Username>
+			</LoginCredential>
+			<Addresses>
+				<Address>
+					<AddressTypeSystemId>F0825AF2-17C2-47FE-876B-D4F2F17FCEAC</AddressTypeSystemId>
+					<SystemId>5fb85f64-5717-4562-b3fc-2c963f66afa7</SystemId>
+					<Address1>1234 Elm Street</Address1>
+					<Address2>Apt 567</Address2>
+					<CareOf>John Doe</CareOf>
+					<City>Springfield</City>
+					<Country>USA</Country>
+					<HouseExtension>B</HouseExtension>
+					<HouseNumber>1234</HouseNumber>
+					<State>IL</State>
+					<ZipCode>62704</ZipCode>
+					<PhoneNumber>+1-555-1234</PhoneNumber>
+				</Address>
+			</Addresses>
+			<Fields>
+				<Name>
+					<EnUS>Test Organization</EnUS>
+					<SvSE>Testorganisation</SvSE>
+				</Name>
+				<Description>
+					<EnUS>This is a sample description for the organization.</EnUS>
+					<SvSE>Detta är en exempelbeskrivning för organisationen.</SvSE>
+				</Description>
+				<Email>contact@organization.com</Email>
+				<FirstName>John</FirstName>
+				<LastName>Doe</LastName>
+				<PhoneNumber>+46701234567</PhoneNumber>
+				<Title>CEO</Title>
+				<MatchCondition>Active</MatchCondition>
+				<LegalRegistrationNumber>556677-1234</LegalRegistrationNumber>
+				<SocialSecurityNumber>20010101-1234</SocialSecurityNumber>
+			</Fields>
+			<FieldTemplateSystemId>A88D364A-8502-41DF-89C0-9269B80601AE</FieldTemplateSystemId>
+			<Id>cbc124</Id>
+			<SystemId>5fb85f64-5717-4562-b3fc-2c963f66afa7</SystemId>
+		</Organization>
+	</Customer>
+</Customers>
